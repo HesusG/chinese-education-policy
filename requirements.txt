@@ -1,0 +1,7 @@
+openai
+requests
+beautifulsoup4
+python-docx
+python-dotenv
+playwright
+Pillow
