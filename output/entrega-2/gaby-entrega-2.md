@@ -2,8 +2,6 @@
 
 **Gaby**
 
-UPAEP
-
 Profesora: Socorro Guevara Salazar
 
 20 de marzo de 2026
