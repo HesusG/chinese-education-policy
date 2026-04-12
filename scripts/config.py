@@ -48,7 +48,7 @@ POLICY_DOCUMENTS = [
         "title": "New Generation AI Development Plan",
         "year": 2017,
         "source": "State Council",
-        "url": "https://www.gov.cn/xinwen/2017-07/20/content_5212064.htm",
+        "url": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
     },
     {
         "id": "4",
